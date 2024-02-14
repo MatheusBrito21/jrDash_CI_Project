@@ -16,4 +16,6 @@
 	<header>
 		jrDash
 	</header>
-
+	
+	<!-- incicio container wrapper -->
+<div class="wrapper">
